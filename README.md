@@ -2,7 +2,7 @@
 
 > A private, single-user productivity space with a waifu aesthetic.  
 > Notes · Tasks · Journal — all running locally, all yours.
-
+> Partially made with the help of claude ai.
 ---
 
 ## What is this?
@@ -53,8 +53,8 @@ AMAI Website/
 │   │   ├── notes.json
 │   │   ├── tasks.json
 │   │   └── journal.json
-│   ├── .env             # Your credentials (gitignored — never committed)
-│   ├── .env.example     # Template
+│   ├── .env             # Your input credentials (gitignored — never committed)
+│   ├── .env.example     # Template incase i forgor
 │   └── package.json
 │
 └── .gitignore
